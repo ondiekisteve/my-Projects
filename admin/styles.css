@@ -1,0 +1,43 @@
+.jumbotron{
+	margin-top: 10px;
+	background-image: url(img/breakingnews3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #798186;
+	
+}
+#navbar{
+	margin-top:-30px;
+}
+p{
+	font-size: 18px;
+	text-align: justify;
+}
+#social ul li{
+	list-style-type: none;
+	display: inline;
+}
+#social img{
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+}
+#social{
+	margin: 10px;
+	text-align: center;
+}
+body{
+	background-image: url(img/pattern.png);
+	background-color:#ed4f12;
+}
+.control-label{
+	font-weight: bold;
+	font-size: 18px;
+}
+body{
+	background-attachment: fixed;
+}
+#navbar ul li a{
+	font-size: 16px;
+	font-weight: bold;
+}
